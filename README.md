@@ -78,6 +78,11 @@ Technical Solutions Engineer with a knack for integrating APIs and delivering sc
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  
 </p>
 
+## Socials
+<p align="left">
+ <a href="https://www.linkedin.com/in/mohdwaseem77790/" target="_blank" rel="noreferrer">
+    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960-rw" alt="linux" width="40" height="40"/>
+  </a>
+</p>
