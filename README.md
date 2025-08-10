@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Mohammed Waseem
+
+## Profile
+Technical Solutions Engineer with a knack for integrating APIs and delivering scalable solutions. Always exploring new technologies to solve real-world problems and drive innovation.
 
 ## Experience
 - <img src="https://play-lh.googleusercontent.com/1YKhbojwSuVb4EmDOGl1oezhqRaPbx2CPbNaUkAXUmYWKRdJALLWARL8eOEDiKdPgMI=w40-h40-rw" alt="VYMO" width="15" height="15"> Senior Solutions Engineer (Backend Developer)
