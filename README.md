@@ -5,9 +5,7 @@ I am Mohammed Waseem
 Technical Solutions Engineer with a knack for integrating APIs and delivering scalable solutions. Always exploring new technologies to solve real-world problems and drive innovation.
 
 ## Experience
-- <img src="https://play-lh.googleusercontent.com/1YKhbojwSuVb4EmDOGl1oezhqRaPbx2CPbNaUkAXUmYWKRdJALLWARL8eOEDiKdPgMI=w40-h40-rw" alt="VYMO" width="15" height="15"> Senior Solutions Engineer (Backend Developer)
-- <img src="https://play-lh.googleusercontent.com/1YKhbojwSuVb4EmDOGl1oezhqRaPbx2CPbNaUkAXUmYWKRdJALLWARL8eOEDiKdPgMI=w40-h40-rw" alt="VYMO" width="15" height="15"> Solution Engineer (Backend Developer)
-
+- <img src="https://play-lh.googleusercontent.com/1YKhbojwSuVb4EmDOGl1oezhqRaPbx2CPbNaUkAXUmYWKRdJALLWARL8eOEDiKdPgMI=w40-h40-rw" alt="VYMO" width="15" height="15"> Software Solutions Engineer (Backend Developer)
 ## Languages & Frameworks
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
