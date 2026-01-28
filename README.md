@@ -2,7 +2,7 @@
 I am Mohammed Waseem
 
 ## Profile
-Technical Solutions Engineer with a knack for integrating APIs and delivering scalable solutions. Always exploring new technologies to solve real-world problems and drive innovation.
+Software Engineer with a knack for integrating APIs and delivering scalable solutions. Always exploring new technologies to solve real-world problems and drive innovation.
 
 ## Experience
 - <img src="https://i.postimg.cc/rwT4QGKg/futurepathai-logo.jpg" alt="FuturePath AI" width="15" height="15"> Software Engineer @ FuturePath AI
